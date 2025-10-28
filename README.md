@@ -105,14 +105,6 @@
                 <li>Source de vitamines et de potassium</li>
                 <li>Améliore la digestion</li>
                 <li>Bonne pour le moral 😄</li>
-            </ul>
-   
-    </main>
-
-    <footer>
-        <p>© 2025 Site de Banane 🍌 — Fait avec amour et potassium</p>
-    </footer>
-
 </body>
 </html>
 
