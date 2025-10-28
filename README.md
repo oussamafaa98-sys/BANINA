@@ -105,7 +105,3 @@
                 <li>Source de vitamines et de potassium</li>
                 <li>Améliore la digestion</li>
                 <li>Bonne pour le moral 😄</li>
-</body>
-</html>
-
-    
