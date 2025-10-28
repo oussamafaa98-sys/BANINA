@@ -106,19 +106,7 @@
                 <li>Améliore la digestion</li>
                 <li>Bonne pour le moral 😄</li>
             </ul>
-        </section>
-
-        <section id="contact">
-            <h2>📩 Contact</h2>
-            <p>Envie d’en savoir plus sur la banane ?</p>
-            <form>
-                <label for="email">Votre email :</label><br>
-                <input type="email" id="email" name="email" placeholder="exemple@email.com" required><br><br>
-                <label for="message">Votre message :</label><br>
-                <textarea id="message" name="message" rows="4" placeholder="Écrivez votre message ici..."></textarea><br><br>
-                <button type="submit">Envoyer</button>
-            </form>
-        </section>
+   
     </main>
 
     <footer>
